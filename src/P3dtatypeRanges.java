@@ -1,4 +1,4 @@
-public class P3dtatyperanges {
+public class P3dtatypeRanges {
     public static void main(String[] args) {
 
          byte byteMax = 127;
