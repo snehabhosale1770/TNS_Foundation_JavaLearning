@@ -1,4 +1,4 @@
-public class P13doWhileLoop {
+public class P12doWhileLoop {
     public static void main(String[] args) {
 
         int i = 11;
